@@ -1,6 +1,7 @@
 # xPong
 A simple implementation of pong using X11.  
 # Background
+I've been interested in getting into game development for a while and figured making a basic pong game would be a good start.  I used C as I have experience with it and really enjoy using it. 
 #How to use
 Clone the repository and compile using the makefile.  cygwin users will need to invoke `startxwin ./xPong` to start the game.
 
